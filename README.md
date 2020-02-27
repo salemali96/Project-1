@@ -6,7 +6,6 @@
 2. [File Description](#files)
 3. [Dataset](#data)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 
@@ -27,5 +26,4 @@ Link to datasets I used Kaggle data set [here](https://www.kaggle.com/airbnb/bos
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available [here](https://medium.com/@ali.hany65/boston-airbnb-analysis-2f4a48d88055?source=friends_link&sk=f3f595ec386decf6639d308001e07d84)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+
