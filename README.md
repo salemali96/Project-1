@@ -12,10 +12,10 @@
 
 ## Project Motivation <a name="motivation"></a>
 
-This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
-1. What are the busiest times to visit Boston? -What is the seasonal pattern of Airbnb housing price? </br>
+This is an Udacity Nanodegree project.I was interested in using Boston Airbnb Kaggle Dataset:</br>
+1. What is the seasonal pattern of Airbnb housing price? -What is the weekly pattern of Airbnb housing price? </br>
 2. What’s the home availability pattern? </br>
-3. -What is the weekly pattern of Airbnb housing price? -Which areas have the highest average Airbnb housing price?  </br>
+3. Which areas have the highest average Airbnb housing price?  </br>
 
 ## File Description <a name="files"></a>
 
@@ -25,7 +25,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 Link to datasets I used Kaggle data set [here](https://www.kaggle.com/airbnb/boston) 
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
+The main findings of the code can be found at the post available [here](https://medium.com/@ali.hany65/boston-airbnb-analysis-2f4a48d88055?source=friends_link&sk=f3f595ec386decf6639d308001e07d84)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
